@@ -1,0 +1,17 @@
+movie_id,title,image_url,series_type,rank,casts,year
+tt9362722,Spider-Man: Across the Spider-Verse,https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg,movie,486,"Shameik Moore, Hailee Steinfeld",2023
+tt0145487,Spider-Man,https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_.jpg,movie,751,"Tobey Maguire, Kirsten Dunst",2002
+tt4633694,Spider-Man: Into the Spider-Verse,https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg,movie,1232,"Shameik Moore, Jake Johnson",2018
+tt10872600,Spider-Man: No Way Home,https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg,movie,571,"Tom Holland, Zendaya",2021
+tt16360004,Spider-Man: Beyond the Spider-Verse,https://m.media-amazon.com/images/M/MV5BNWZjYTgzZmItMGEwZS00NTgwLThhOWItMzM2MTY0ODZjZGVhXkEyXkFqcGc@._V1_.jpg,movie,1428,"Shameik Moore, Hailee Steinfeld",2008
+tt0371746,Iron Man,https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg,movie,1049,"Robert Downey Jr., Gwyneth Paltrow",2012
+nm10946073,Ironman,https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_.jpg,movie,1112,"Robert Downey Jr., Chris Evans",1961
+tt0848228,The Avengers,https://m.media-amazon.com/images/M/MV5BMDhhYWIxMzYtNTY2Zi00MTZiLWI2ZDUtYjNiNTY5YzA5MWNkXkEyXkFqcGc@._V1_.jpg,tvSeries,2869,"Patrick Macnee, Diana Rigg",1998
+tt0054518,The Avengers,https://m.media-amazon.com/images/M/MV5BZTA4ZmZlZWQtZDRlYS00ZWZhLTk0MzEtYjExMGIzMTBlZDNlXkEyXkFqcGc@._V1_.jpg,movie,10263,"Ralph Fiennes, Uma Thurman",2019
+tt0118661,The Avengers,https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg,movie,495,"Robert Downey Jr., Chris Evans",2010
+tt4154796,Avengers: Endgame,https://m.media-amazon.com/images/M/MV5BY2NkYTNlMTQtZWVjNC00MTk4LTkzNGEtYjAyOTYxYWFjYTVkXkEyXkFqcGc@._V1_.jpg,tvSeries,5444,"Eric Loomis, Colleen O'Shaughnessey",2026
+tt1626038,The Avengers: Earth's Mightiest Heroes,https://m.media-amazon.com/images/M/MV5BMGNiN2RlZTMtMTkyZC00YjkwLTgyY2QtMDg1ZDNhODQwNWM4XkEyXkFqcGc@._V1_.jpg,movie,565,"Pedro Pascal, Anthony Mackie",2018
+tt21357150,Avengers: Doomsday,https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg,movie,846,"Robert Downey Jr., Chris Hemsworth",1976
+tt4154756,Avengers: Infinity War,https://m.media-amazon.com/images/M/MV5BZTAwOGQwZmItNWRkOC00NDJiLTgyYTktYzlmZmI2MjdmNGY2XkEyXkFqcGc@._V1_.jpg,tvSeries,16631,"Patrick Macnee, Gareth Hunt",
+tt0074031,The New Avengers,https://m.media-amazon.com/images/M/MV5BMTMzMzM4NzkzOV5BMl5BanBnXkFtZTcwNjIyMTIyMw@@.jpg,,,,
+/star-wars,Star Wars on IMDb,,,,,
